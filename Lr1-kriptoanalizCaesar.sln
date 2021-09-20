@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lr1-kriptoanalizCaesar", "Lr1-kriptoanalizCaesar\Lr1-kriptoanalizCaesar.csproj", "{50E2C23B-C946-4E12-A15A-4E29027BC107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E2C23B-C946-4E12-A15A-4E29027BC107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E2C23B-C946-4E12-A15A-4E29027BC107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E2C23B-C946-4E12-A15A-4E29027BC107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E2C23B-C946-4E12-A15A-4E29027BC107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B110AD12-0B91-4391-8FA7-B19EC6AFF445}
+	EndGlobalSection
+EndGlobal
